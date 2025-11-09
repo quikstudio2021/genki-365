@@ -1,0 +1,78 @@
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+Icon\r
+._*
+.Spotlight-V100
+.Trashes
+# Thumbnails
+.fseventsd
+# Temporary files
+*.swp
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual Environments
+# If you are using a dedicated folder for all your Venvs,
+# you might want to add that folder (e.g., 'envs/') to a global .gitignore instead.
+# For project-local Venvs, include the path:
+venv/
+env/
+.venv/
+
+# PyInstaller / build tools
+*.manifest
+*.spec
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm/IntelliJ
+.idea/
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
